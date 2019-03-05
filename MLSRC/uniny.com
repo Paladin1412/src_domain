@@ -1,0 +1,12 @@
+act.uniny.com
+bip.uniny.com
+homepage2.uniny.com
+imap.uniny.com
+ku1720.uniny.com
+nn.uniny.com
+shieldcaptain.uniny.com
+stmp.uniny.com
+uniny.com
+www2u.uniny.com
+www5a.uniny.com
+www.uniny.com
